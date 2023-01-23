@@ -1,0 +1,2 @@
+# trojan
+for windows desktop
